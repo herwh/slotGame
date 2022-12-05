@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6003114d71441498e931835145fcfe, type: 3}
+  m_Name: FruitSlotsConfig
+  m_EditorClassIdentifier: 
+  _slotData:
+  - _sprite: {fileID: 21300000, guid: 993811fb91be7594d91017c511200e7e, type: 3}
+    _spriteValue: 1
+  - _sprite: {fileID: 21300000, guid: 415e3847d85a19042b843bcd64fdbc0e, type: 3}
+    _spriteValue: 2
+  - _sprite: {fileID: 21300000, guid: aa6ca4aa9e50068419768696bfb3d08b, type: 3}
+    _spriteValue: 3
+  - _sprite: {fileID: 21300000, guid: 05296630f3fff1c45a713a9ee9c7cf57, type: 3}
+    _spriteValue: 4
+  - _sprite: {fileID: 21300000, guid: 1c4f1fe1ac9e83b4dbaf902d6177f762, type: 3}
+    _spriteValue: 5
+  - _sprite: {fileID: 21300000, guid: 60aa9c4247716a84a9cd42ce3226e496, type: 3}
+    _spriteValue: 6
+  - _sprite: {fileID: 21300000, guid: f196e04b82af3534a913042fc620b042, type: 3}
+    _spriteValue: 7

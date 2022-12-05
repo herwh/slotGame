@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.SlotGame.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\123\Desktop\csharp\SlotGame\.idea\.idea.SlotGame\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
