@@ -7,7 +7,6 @@ namespace DefaultNamespace
     public class WinlinesConfig : ScriptableObject
     {
         [SerializeField] private List<WinlineData> _winlineData;
-
         public List<WinlineData> WinlineData => _winlineData;
     }
 }
